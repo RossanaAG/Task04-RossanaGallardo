@@ -503,10 +503,10 @@ input{
     border-color: black;
 }
 
-#male,#female, #position01,#position02,#position03,#position04, #uniforme01, #uniforme02, #uniforme03, #uniforme04, #uniforme05, #uniforme06, #uniforme07, #gradePreSchool, #grade1st, #grade2st, #grade3st, #grade4st, #grade5st{
+#Male,#Female, #position01,#position02,#position03,#position04, #uniforme01, #uniforme02, #uniforme03, #uniforme04, #uniforme05, #uniforme06, #uniforme07, #gradePreSchool, #grade1st, #grade2st, #grade3st, #grade4st, #grade5st{
     width: 12px;
     height: 12px;
-    margin-left: 20px;
+    margin-left: 35px;
 }
 
 #school,#positionplay,#uniformesize{
